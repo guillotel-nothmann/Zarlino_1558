@@ -5,7 +5,8 @@
     <work-title>Ove ch'i posi gli occhi lassi o giri</work-title>
     </work>
   <identification>
-    <creator type="composer">Adrian Willaert (c.1490-1562)</creator>
+    <creator type="arranger">Allen Garvin (ChoralWiki); Marco Gurrieri</creator>
+    <creator type="composer">Adrian Willaert</creator>
     <creator type="poet">Petrarca, Canzoniere CLVIII (158)</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
@@ -16,7 +17,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
-    <source>Scanned sheet music</source>
+    <source>ChoralWiki</source>
     </identification>
   <defaults>
     <scaling>
@@ -44,15 +45,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="823" default-y="2098.32" justify="center" valign="top" font-style="italic" font-size="16">Ove ch'i posi gli occhi lassi o giri</credit-words>
+    <credit-words default-x="823" default-y="2098.4" justify="center" valign="top" font-style="italic" font-size="16">Ove ch'i posi gli occhi lassi o giri</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1530.61" default-y="1998.32" justify="right" valign="top">Adrian Willaert (c.1490-1562)</credit-words>
+    <credit-words default-x="1530.61" default-y="1998.4" justify="right" valign="top">Adrian Willaert (c.1490-1562)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>lyricist</credit-type>
-    <credit-words default-x="115.385" default-y="1998.32" justify="left" valign="top">Petrarca, </credit-words>
+    <credit-words default-x="115.385" default-y="1998.4" justify="left" valign="top">Petrarca, </credit-words>
     <credit-words font-style="italic">Canzoniere</credit-words>
     <credit-words font-style="normal"> CLVIII (158)</credit-words>
     </credit>

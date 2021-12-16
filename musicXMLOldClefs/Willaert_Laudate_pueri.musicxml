@@ -2,9 +2,10 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Descendi in hortum meum</work-title>
+    <work-title>Laudate pueri Dominum</work-title>
     </work>
   <identification>
+    <creator type="arranger">Hermann Zenck, Walter Gerstenberg, Bernhard Meier, Helga Meier, and Wolfgang Horn (CMM); Marco Gurrieri</creator>
     <creator type="composer">Adrian Willaert</creator>
     <rights>CNRS - IReMus</rights>
     <encoding>
@@ -43,11 +44,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="777.78" default-y="2089.56" justify="center" valign="top" font-style="italic" font-size="16">XXIV Laudate pueri Dominum</credit-words>
+    <credit-words default-x="777.78" default-y="2089.45" justify="center" valign="top" font-style="italic" font-size="16">XXIV Laudate pueri Dominum</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1444.45" default-y="1989.56" justify="right" valign="top">Adrian Willaert</credit-words>
+    <credit-words default-x="1444.45" default-y="1989.45" justify="right" valign="top">Adrian Willaert</credit-words>
     </credit>
   <credit page="1">
     <credit-type>rights</credit-type>

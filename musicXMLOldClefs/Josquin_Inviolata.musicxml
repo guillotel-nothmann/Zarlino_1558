@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
+  <work>
+    <work-title>Inviolata integra et casta es</work-title>
+    </work>
   <movement-title>2404-Inviolata_integra_et_casta_es</movement-title>
   <identification>
     <creator type="arranger">Will Watson 2011/04/06; Victoria Chang 2011/04/10; Jesse Rodin 3 March 2013</creator>
     <creator type="composer">Josquin Des Prez</creator>
-    <creator type="lyricist">Liber selectarum cantionum (1520)</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
       <encoding-date>2021-12-16</encoding-date>
@@ -15,6 +17,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Liber selectarum cantionum (1520)</source>
     </identification>
   <defaults>
     <scaling>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
+  <work>
+    <work-title>Praeter rerum seriem</work-title>
+    </work>
   <movement-title>2411-Preter_rerum_seriem</movement-title>
   <identification>
     <creator type="arranger">Will Watson 20/05/2011</creator>
@@ -16,6 +19,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>NJE</source>
     </identification>
   <defaults>
     <scaling>
@@ -43,11 +47,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="840.93" default-y="2195.44" justify="center" valign="top" font-style="italic" font-family="Edwin" font-size="22">Preter rerum seriem</credit-words>
+    <credit-words default-x="840.93" default-y="2195.66" justify="center" valign="top" font-style="italic" font-family="Edwin" font-size="22">Preter rerum seriem</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1574.72" default-y="2095.44" justify="right" valign="top" font-family="Edwin" font-size="10">Josquin Des Prez</credit-words>
+    <credit-words default-x="1574.72" default-y="2095.66" justify="right" valign="top" font-family="Edwin" font-size="10">Josquin Des Prez</credit-words>
     </credit>
   <credit page="1">
     <credit-type>rights</credit-type>

@@ -2,10 +2,12 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Descendi in hortum meum</work-title>
+    <work-title>Giunto m'à Amor fra belle et crude braccia</work-title>
     </work>
   <identification>
+    <creator type="arranger">Allen Garvin (ChoralWiki); Marco Gurrieri</creator>
     <creator type="composer">Adrian Willaert</creator>
+    <creator type="poet">Petrarca, Canzoniere CLXXII (172)</creator>
     <rights>CNRS - IReMus</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
@@ -16,6 +18,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>Musica Nova (Gardano press, Ferrara, 1559)</source>
     </identification>
   <defaults>
     <scaling>
@@ -43,11 +46,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="777.78" default-y="2089.56" justify="center" valign="top" font-style="italic" font-size="16">Giunto m’à Amor fra belle et crude braccia</credit-words>
+    <credit-words default-x="777.78" default-y="2089.45" justify="center" valign="top" font-style="italic" font-size="16">Giunto m’à Amor fra belle et crude braccia</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1444.45" default-y="1989.56" justify="right" valign="top">Adrian Willaert (c. 1490-1562)</credit-words>
+    <credit-words default-x="1444.45" default-y="1989.45" justify="right" valign="top">Adrian Willaert (c. 1490-1562)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>rights</credit-type>
@@ -2079,7 +2082,6 @@
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <accidental>natural</accidental>
         <stem>down</stem>
         </note>
       </measure>

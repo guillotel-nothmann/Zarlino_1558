@@ -2,9 +2,10 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <work>
-    <work-title>Descendi in hortum meum</work-title>
+    <work-title>In convertendo Dominus</work-title>
     </work>
   <identification>
+    <creator type="arranger">Anders Arbring (IMSLP); Marco Gurrieri</creator>
     <creator type="composer">Lupus Hellinck</creator>
     <rights>CNRS - IReMus</rights>
     <encoding>
@@ -16,6 +17,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>IMSLP</source>
     </identification>
   <defaults>
     <scaling>
@@ -43,11 +45,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="777.78" default-y="2089.67" justify="center" valign="top" font-style="italic" font-size="16">In convertendo Dominus</credit-words>
+    <credit-words default-x="777.78" default-y="2089.56" justify="center" valign="top" font-style="italic" font-size="16">In convertendo Dominus</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1444.45" default-y="1989.67" justify="right" valign="top">Lupus Hellinck (1493/4-1541)</credit-words>
+    <credit-words default-x="1444.45" default-y="1989.56" justify="right" valign="top">Lupus Hellinck (1493/4-1541)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>rights</credit-type>

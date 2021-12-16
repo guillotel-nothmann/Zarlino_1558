@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
+  <work>
+    <work-title>Veni Sancte Spiritus</work-title>
+    </work>
   <identification>
+    <creator type="arranger">Pothárn Imre (ChoralWiki); Marco Gurrieri</creator>
     <creator type="composer">Adrian Willaert</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
@@ -12,6 +16,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>ChoralWiki</source>
     </identification>
   <defaults>
     <scaling>
@@ -39,11 +44,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="750" default-y="2015.16" justify="center" valign="top" font-style="italic" font-size="22">Veni Sancte Spiritus</credit-words>
+    <credit-words default-x="750" default-y="2014.45" justify="center" valign="top" font-style="italic" font-size="22">Veni Sancte Spiritus</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1392.86" default-y="1914.58" justify="right" valign="top">Adrian Willaert</credit-words>
+    <credit-words default-x="1392.86" default-y="1913.87" justify="right" valign="top">Adrian Willaert</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">

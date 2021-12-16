@@ -5,6 +5,7 @@
     <work-title>Che fai alma? che pensi? avrem mai pace?</work-title>
     </work>
   <identification>
+    <creator type="arranger">Allen Garvin (ChoralWiki); Marco Gurrieri</creator>
     <creator type="composer">Adrian Willaert (c.1490-1562)</creator>
     <creator type="poet">Petrarca, Canzoniere CL (150)</creator>
     <encoding>
@@ -16,7 +17,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
-    <source>Scanned sheet music</source>
+    <source>ChoralWiki</source>
     </identification>
   <defaults>
     <scaling>
@@ -44,15 +45,15 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="838.98" default-y="2092.62" justify="center" valign="top" font-style="italic" font-size="15">Che fai alma? che pensi? avrem mai pace?</credit-words>
+    <credit-words default-x="838.98" default-y="2092.93" justify="center" valign="top" font-style="italic" font-size="15">Che fai alma? che pensi? avrem mai pace?</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1560.31" default-y="1992.62" justify="right" valign="top">Adrian Willaert (c.1490-1562)</credit-words>
+    <credit-words default-x="1560.31" default-y="1992.93" justify="right" valign="top">Adrian Willaert (c.1490-1562)</credit-words>
     </credit>
   <credit page="1">
     <credit-type>lyricist</credit-type>
-    <credit-words default-x="117.647" default-y="1992.62" justify="left" valign="top">Petrarca, </credit-words>
+    <credit-words default-x="117.647" default-y="1992.93" justify="left" valign="top">Petrarca, </credit-words>
     <credit-words font-style="italic">Canzoniere</credit-words>
     <credit-words font-style="normal"> CL (150)</credit-words>
     </credit>
