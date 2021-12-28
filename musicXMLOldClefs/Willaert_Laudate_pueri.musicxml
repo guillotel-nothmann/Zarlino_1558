@@ -10519,7 +10519,7 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-y="10.00" font-style="italic">BP_A</words>
+          <words relative-y="10.00" font-style="italic">B_A</words>
           </direction-type>
         </direction>
       <note default-x="134.16" default-y="-390.47">
@@ -10536,7 +10536,7 @@
     <measure number="22" width="136.60">
       <direction placement="above">
         <direction-type>
-          <words default-y="22.31" relative-y="10.00" font-style="italic">BP_P</words>
+          <words default-y="22.31" relative-y="10.00" font-style="italic">B_P</words>
           </direction-type>
         </direction>
       <note default-x="13.96" default-y="-385.47">
@@ -10550,7 +10550,7 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-y="10.00" font-style="italic">BP_F</words>
+          <words relative-y="10.00" font-style="italic">B_F</words>
           </direction-type>
         </direction>
       <note default-x="80.56" default-y="-400.47">
@@ -26273,7 +26273,7 @@
         </note>
       <direction placement="above">
         <direction-type>
-          <words relative-y="10.00" font-style="italic">BP_A</words>
+          <words relative-y="10.00" font-style="italic">B_A</words>
           </direction-type>
         </direction>
       <note default-x="283.22" default-y="-790.03">
@@ -26294,7 +26294,7 @@
     <measure number="115" width="289.58">
       <direction placement="above">
         <direction-type>
-          <words relative-y="10.00" font-style="italic">BP_P</words>
+          <words relative-y="10.00" font-style="italic">B_P</words>
           </direction-type>
         </direction>
       <note default-x="19.50" default-y="-810.03">
@@ -26314,7 +26314,7 @@
     <measure number="116" width="220.79">
       <direction placement="above">
         <direction-type>
-          <words relative-y="10.00" font-style="italic">BP_F</words>
+          <words relative-y="10.00" font-style="italic">B_F</words>
           </direction-type>
         </direction>
       <note default-x="19.50" default-y="-790.03">
