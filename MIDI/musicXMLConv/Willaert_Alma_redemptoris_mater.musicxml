@@ -11,7 +11,7 @@
     <rights>CPDL</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2023-11-29</encoding-date>
+      <encoding-date>2023-12-12</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -21364,11 +21364,6 @@
         <voice>1</voice>
         <type>half</type>
         </note>
-      <direction placement="below">
-        <direction-type>
-          <words default-y="-40.00" relative-y="-25.00" font-family="CenturySchL" font-size="9">Tu</words>
-          </direction-type>
-        </direction>
       <note default-x="142.22" default-y="-323.06">
         <pitch>
           <step>F</step>
@@ -21382,6 +21377,11 @@
         <notations>
           <tied type="start"/>
           </notations>
+        <lyric number="1" default-y="-40.00" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>Tu</text>
+          <extend/>
+          </lyric>
         </note>
       </measure>
     <measure number="95" width="214.67">

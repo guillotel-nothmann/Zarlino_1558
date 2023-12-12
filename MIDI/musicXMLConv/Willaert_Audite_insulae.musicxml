@@ -11,7 +11,7 @@
     <rights>CPDL</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2023-11-27</encoding-date>
+      <encoding-date>2023-12-12</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -25,7 +25,7 @@
       <tenths>40</tenths>
       </scaling>
     <page-layout>
-      <page-height>2411.73</page-height>
+      <page-height>2411.74</page-height>
       <page-width>1706.28</page-width>
       <page-margins type="both">
         <left-margin>81.289</left-margin>
@@ -39,39 +39,39 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="853.138" default-y="2330.47" justify="center" valign="top" font-weight="bold" font-family="CenturySchL" font-size="12">Audite insulae</credit-words>
+    <credit-words default-x="853.139" default-y="2330.48" justify="center" valign="top" font-weight="bold" font-family="CenturySchL" font-size="12">Audite insulae</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1624.99" default-y="2295.47" justify="right" valign="top" font-family="CenturySchL" font-size="8">Adrian Willaert</credit-words>
+    <credit-words default-x="1624.99" default-y="2295.49" justify="right" valign="top" font-family="CenturySchL" font-size="8">Adrian Willaert</credit-words>
     </credit>
   <credit page="1">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <credit page="2">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <credit page="3">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <credit page="4">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <credit page="5">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <credit page="6">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <credit page="7">
     <credit-type>rights</credit-type>
-    <credit-words default-x="853.138" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
+    <credit-words default-x="853.139" default-y="81.289" justify="center" valign="bottom" font-size="9">CPDL</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -246,7 +246,7 @@
             <left-margin>28.70</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>144.48</system-distance>
+          <system-distance>144.49</system-distance>
           </system-layout>
         </print>
       <note>
@@ -523,7 +523,7 @@
             <left-margin>28.70</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>144.48</system-distance>
+          <system-distance>144.49</system-distance>
           </system-layout>
         </print>
       <note default-x="61.36" default-y="-20.00">
@@ -1569,7 +1569,7 @@
           <text font-family="CenturySchL" font-size="9">ab</text>
           </lyric>
         </note>
-      <note default-x="112.71" default-y="-15.00">
+      <note default-x="112.72" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2096,7 +2096,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="57" width="217.14">
+    <measure number="57" width="217.15">
       <note default-x="19.89" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -2178,7 +2178,7 @@
           <text font-family="CenturySchL" font-size="9">re</text>
           </lyric>
         </note>
-      <note default-x="160.12" default-y="-40.00">
+      <note default-x="160.13" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -2310,7 +2310,7 @@
           <text font-family="CenturySchL" font-size="9">re</text>
           </lyric>
         </note>
-      <note default-x="162.89" default-y="-15.00">
+      <note default-x="162.90" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -2734,7 +2734,7 @@
           <text font-family="CenturySchL" font-size="9">no</text>
           </lyric>
         </note>
-      <note default-x="181.38" default-y="-25.00">
+      <note default-x="181.39" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -3526,7 +3526,7 @@
         <system-layout>
           <system-margins>
             <left-margin>28.70</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -4471,7 +4471,7 @@
           <text font-family="CenturySchL" font-size="9">cem</text>
           </lyric>
         </note>
-      <note default-x="180.16" default-y="-40.00">
+      <note default-x="180.17" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -5666,9 +5666,8 @@
         <type>whole</type>
         <stem>none</stem>
         <lyric number="1" default-y="-40.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
+          <syllabic>begin</syllabic>
           <text font-family="CenturySchL" font-size="9">ter</text>
-          <extend/>
           </lyric>
         </note>
       <note default-x="315.22" default-y="-35.00">
@@ -5695,7 +5694,7 @@
         <type>breve</type>
         <stem>none</stem>
         <lyric number="1" default-x="8.12" default-y="-40.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
+          <syllabic>end</syllabic>
           <text font-family="CenturySchL" font-size="9">rae.</text>
           </lyric>
         </note>
@@ -5862,7 +5861,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="57.20" default-y="-130.00">
+      <note default-x="57.21" default-y="-130.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -6198,7 +6197,7 @@
           <text font-family="CenturySchL" font-size="9">po</text>
           </lyric>
         </note>
-      <note default-x="175.90" default-y="-120.48">
+      <note default-x="175.91" default-y="-120.48">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -7071,7 +7070,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="57.24" default-y="-138.43">
+      <note default-x="57.25" default-y="-138.43">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -8063,7 +8062,7 @@
         <type>whole</type>
         </note>
       </measure>
-    <measure number="57" width="217.14">
+    <measure number="57" width="217.15">
       <note>
         <rest/>
         <duration>4</duration>
@@ -10721,7 +10720,7 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
-      <note default-x="180.16" default-y="-120.42">
+      <note default-x="180.17" default-y="-120.42">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -12519,7 +12518,7 @@
           <text font-family="CenturySchL" font-size="9">ten</text>
           </lyric>
         </note>
-      <note default-x="165.19" default-y="-221.15">
+      <note default-x="165.20" default-y="-221.15">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -13465,7 +13464,7 @@
           <text font-family="CenturySchL" font-size="9">ab</text>
           </lyric>
         </note>
-      <note default-x="112.71" default-y="-221.17">
+      <note default-x="112.72" default-y="-221.17">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -13802,7 +13801,7 @@
           <text font-family="CenturySchL" font-size="9">tris</text>
           </lyric>
         </note>
-      <note default-x="164.97" default-y="-210.00">
+      <note default-x="164.98" default-y="-210.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -14124,7 +14123,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="57" width="217.14">
+    <measure number="57" width="217.15">
       <note default-x="19.89" default-y="-244.40">
         <pitch>
           <step>B</step>
@@ -14341,7 +14340,7 @@
           <text font-family="CenturySchL" font-size="9">mi</text>
           </lyric>
         </note>
-      <note default-x="162.89" default-y="-223.31">
+      <note default-x="162.90" default-y="-223.31">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -15547,7 +15546,7 @@
           <text font-family="CenturySchL" font-size="9">di</text>
           </lyric>
         </note>
-      <note default-x="121.83" default-y="-230.33">
+      <note default-x="121.84" default-y="-230.33">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -16749,7 +16748,7 @@
         <type>whole</type>
         <stem>none</stem>
         </note>
-      <note default-x="146.37" default-y="-250.42">
+      <note default-x="146.38" default-y="-250.42">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -16793,7 +16792,7 @@
           <text font-family="CenturySchL" font-size="9">de</text>
           </lyric>
         </note>
-      <note default-x="180.16" default-y="-245.42">
+      <note default-x="180.17" default-y="-245.42">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -19990,7 +19989,7 @@
           <extend/>
           </lyric>
         </note>
-      <note default-x="167.45" default-y="-366.17">
+      <note default-x="167.46" default-y="-366.17">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -20026,7 +20025,7 @@
           <text font-family="CenturySchL" font-size="9">ab</text>
           </lyric>
         </note>
-      <note default-x="112.71" default-y="-361.17">
+      <note default-x="112.72" default-y="-361.17">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -20236,7 +20235,7 @@
           <text font-family="CenturySchL" font-size="9">ven</text>
           </lyric>
         </note>
-      <note default-x="164.97" default-y="-360.00">
+      <note default-x="164.98" default-y="-360.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -20499,7 +20498,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="57" width="217.14">
+    <measure number="57" width="217.15">
       <note default-x="18.92" default-y="-372.31">
         <pitch>
           <step>E</step>
@@ -20564,7 +20563,7 @@
           <text font-family="CenturySchL" font-size="9">cor</text>
           </lyric>
         </note>
-      <note default-x="160.12" default-y="-347.31">
+      <note default-x="160.13" default-y="-347.31">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -22032,7 +22031,7 @@
           <text font-family="CenturySchL" font-size="9">a</text>
           </lyric>
         </note>
-      <note default-x="121.83" default-y="-362.01">
+      <note default-x="121.84" default-y="-362.01">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -23277,7 +23276,7 @@
           <text font-family="CenturySchL" font-size="9">De</text>
           </lyric>
         </note>
-      <note default-x="180.16" default-y="-368.00">
+      <note default-x="180.17" default-y="-368.00">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -26020,7 +26019,7 @@
           <text font-family="CenturySchL" font-size="9">te</text>
           </lyric>
         </note>
-      <note default-x="112.71" default-y="-460.15">
+      <note default-x="112.72" default-y="-460.15">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -26508,7 +26507,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="57" width="217.14">
+    <measure number="57" width="217.15">
       <note default-x="19.89" default-y="-469.34">
         <pitch>
           <step>G</step>
@@ -27483,7 +27482,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="141.66" default-y="-484.95">
+      <note default-x="141.67" default-y="-484.95">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -28948,7 +28947,7 @@
           <text font-family="CenturySchL" font-size="9">De</text>
           </lyric>
         </note>
-      <note default-x="146.37" default-y="-474.29">
+      <note default-x="146.38" default-y="-474.29">
         <pitch>
           <step>G</step>
           <octave>3</octave>
@@ -30415,7 +30414,7 @@
         <voice>1</voice>
         <type>half</type>
         </note>
-      <note default-x="57.16" default-y="-556.49">
+      <note default-x="57.17" default-y="-556.49">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -30799,7 +30798,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="165.19" default-y="-563.69">
+      <note default-x="165.20" default-y="-563.69">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -31401,7 +31400,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="112.71" default-y="-575.17">
+      <note default-x="112.72" default-y="-575.17">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -31754,7 +31753,7 @@
         <voice>1</voice>
         </note>
       </measure>
-    <measure number="57" width="217.14">
+    <measure number="57" width="217.15">
       <note>
         <rest/>
         <duration>8</duration>
@@ -31805,7 +31804,7 @@
           <text font-family="CenturySchL" font-size="9">da</text>
           </lyric>
         </note>
-      <note default-x="160.12" default-y="-570.75">
+      <note default-x="160.13" default-y="-570.75">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -32048,7 +32047,7 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="162.89" default-y="-571.53">
+      <note default-x="162.90" default-y="-571.53">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -32501,7 +32500,7 @@
           <text font-family="CenturySchL" font-size="9">no</text>
           </lyric>
         </note>
-      <note default-x="181.38" default-y="-581.17">
+      <note default-x="181.39" default-y="-581.17">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -33292,7 +33291,7 @@
           <text font-family="CenturySchL" font-size="9">a</text>
           </lyric>
         </note>
-      <note default-x="121.83" default-y="-573.34">
+      <note default-x="121.84" default-y="-573.34">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -33760,7 +33759,7 @@
           <text>te</text>
           </lyric>
         </note>
-      <note default-x="188.54" default-y="-582.31">
+      <note default-x="188.55" default-y="-582.31">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -34304,7 +34303,7 @@
           <text font-family="CenturySchL" font-size="9">te</text>
           </lyric>
         </note>
-      <note default-x="146.37" default-y="-589.29">
+      <note default-x="146.38" default-y="-589.29">
         <pitch>
           <step>G</step>
           <octave>2</octave>
