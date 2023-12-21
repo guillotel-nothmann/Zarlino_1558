@@ -7,10 +7,10 @@
   <movement-title>2404-Inviolata_integra_et_casta_es</movement-title>
   <identification>
     <creator type="arranger">Will Watson 2011/04/06; Victoria Chang 2011/04/10; Jesse Rodin 3 March 2013</creator>
-    <creator type="composer">Josquin Des Prez</creator>
+    <creator type="composer">Josquin des Prez</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-12-16</encoding-date>
+      <encoding-date>2023-12-21</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -39,11 +39,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="772.5" default-y="1982" justify="center" valign="top" font-size="22">2404-Inviolata_integra_et_casta_es</credit-words>
+    <credit-words default-x="772.5" default-y="1982" justify="center" valign="top" font-size="22">Inviolata_integra_et_casta_es</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1409" default-y="1882" justify="right" valign="top" font-size="10">Josquin Des Prez</credit-words>
+    <credit-words default-x="1409" default-y="1882" justify="right" valign="top" font-size="10">Josquin des Prez</credit-words>
     </credit>
   <credit page="1">
     <credit-type>lyricist</credit-type>
